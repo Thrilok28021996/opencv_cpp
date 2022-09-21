@@ -1,0 +1,3 @@
+/Users/thrilok/Documents/c++/learn/build/CMakeFiles/learn.dir
+/Users/thrilok/Documents/c++/learn/build/CMakeFiles/edit_cache.dir
+/Users/thrilok/Documents/c++/learn/build/CMakeFiles/rebuild_cache.dir
